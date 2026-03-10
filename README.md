@@ -1,2 +1,3 @@
 # Birthday Website
-made for a pal
+This little website was a small exercise.
+Nothing too fancy, just HTML, CSS, Javascript and a few little easter eggs :D
